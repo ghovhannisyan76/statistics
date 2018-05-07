@@ -1,0 +1,16 @@
+*~
+.sh
+.idea/
+.iml
+.project
+.classpath
+.settings
+.DS_Store
+*.log
+*.log.*
+target
+logs
+lib
+trace.db
+bin
+
